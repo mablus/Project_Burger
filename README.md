@@ -1,5 +1,5 @@
 # Project_Burger
-![image](https://user-images.githubusercontent.com/98613680/193132600-85ca08be-d55e-468c-802d-b47722fc43bc.png)
-![image](https://user-images.githubusercontent.com/98613680/193132704-68cabbf5-9df7-4f13-8a3c-6c147369af57.png)
+![image](https://user-images.githubusercontent.com/98613680/193133040-ab537417-6823-44f4-a5ef-8fc526bafc33.png)
+![image](https://user-images.githubusercontent.com/98613680/193133085-954c6416-d8c5-404b-937a-7c8e64e21ddb.png)
 ![image](https://user-images.githubusercontent.com/98613680/193132872-94bc6b0a-6849-4909-915e-302205dfd747.png)
 
